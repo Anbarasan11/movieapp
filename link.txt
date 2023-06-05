@@ -1,0 +1,24 @@
+efc5b4082db5efb52fc8ff69e1311c7c
+
+api_key=efc5b4082db5efb52fc8ff69e1311c7c&
+
+now playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=efc5b4082db5efb52fc8ff69e1311c7c&language=en-US&page=1
+
+popular:
+
+https://api.themoviedb.org/3/movie/popular?api_key=efc5b4082db5efb52fc8ff69e1311c7c&language=en-US&page=1
+
+top rating:
+https://api.themoviedb.org/3/movie/top_rated?api_key=efc5b4082db5efb52fc8ff69e1311c7c&language=en-US&page=1
+
+upcoming:
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=efc5b4082db5efb52fc8ff69e1311c7c&language=en-US&page=1
+
+
+search:
+https://api.themoviedb.org/3/search/movie?api_key=efc5b4082db5efb52fc8ff69e1311c7c&query={movie_name}
+
+indivudual:
+https://api.themoviedb.org/3/movie/movie_id?api_key=efc5b4082db5efb52fc8ff69e1311c7c&language=en-US
